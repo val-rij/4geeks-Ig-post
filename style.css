@@ -1,0 +1,53 @@
+p {
+    font-family: 'Roboto','sans-serif';
+    font-size: 80%;
+}
+strong{
+    font-family: 'Roboto','sans-serif';
+    font-size: 90%;
+}
+
+
+.post {
+    margin: 5px;
+    width: 300px;
+    height: 400px;
+    position: fixed;
+    left: 600px;
+    top: 100px;
+}
+.post-header {
+    height: 40px;
+    width: 200px;
+    display: flex;
+}
+.post-logos {
+    
+    width: 100%;
+    margin-top: 10px;
+    margin-right: 5px;
+    margin-bottom: 10px;
+    display: inline-flex;
+    justify-content: right;
+}
+
+.post-body {
+    float: none;
+}
+.post-icons {
+    display: flex;
+    
+    
+}
+.post-text
+{
+    text-align: justify;
+}
+#mt-rainier {
+    width: 300px;
+    
+}
+#html5 {
+    height: 20px;
+    width: 20px;
+}
